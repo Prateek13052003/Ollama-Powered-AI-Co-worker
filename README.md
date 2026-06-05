@@ -4,7 +4,7 @@
 
 A local AI agent built using LangGraph, Ollama (Llama 3.1), Playwright, and Gradio. The agent performs tasks, evaluates its own responses, and continues working until the success criteria are met.
 
-## Technologies Used
+## Technologies Used-:
 
 * Python
 * LangGraph
